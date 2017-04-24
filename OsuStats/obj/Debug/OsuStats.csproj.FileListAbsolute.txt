@@ -1,0 +1,9 @@
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\bin\Debug\OsuStats.exe.config
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\bin\Debug\OsuStats.exe
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\bin\Debug\OsuStats.pdb
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\bin\Debug\Newtonsoft.Json.dll
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\bin\Debug\osu!api.dll
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\bin\Debug\osu!api.pdb
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\obj\Debug\OsuStats.csprojResolveAssemblyReference.cache
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\obj\Debug\OsuStats.exe
+c:\users\newe\documents\visual studio 2015\Projects\OsuStats\OsuStats\obj\Debug\OsuStats.pdb
